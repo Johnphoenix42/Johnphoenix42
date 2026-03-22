@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**Johnphoenix42/Johnphoenix42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **John**
+- 👀 I’m good at **Java** and **JavaScript**
+- 🌱 I’m currently learning **C** and **Postgresql**
+- 🔭 I’m currently working on Vectore and C statistical CLI app
+- 👯 I’m looking to collaborate on **Web Application** and **Desktop Native app** ideas
+- 💞️ I'd love to explore Game Development and Embedded Systems later in my career
+- 💬 Ask me about my trip to the moon (Ha ha)
+- 😄 Pronouns: He/Him
+- 📫 Contact me via [**email**](mailto:johnolamide420@gmail.com)
+- ⚡ Fun fact: I'm an introverted home buddy and I read a lot (Not as much as I'd like to though)
